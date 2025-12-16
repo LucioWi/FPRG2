@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "WebApi.Controllers.EnviosController",
+    "Method": "Post",
+    "RelativePath": "api/Envios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "WebApi.DTOs.EnvioCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.EnviosController",
+    "Method": "GetByDni",
+    "RelativePath": "api/Envios/dni/{dni}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dni",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

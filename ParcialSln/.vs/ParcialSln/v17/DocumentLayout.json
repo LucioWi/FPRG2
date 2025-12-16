@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|d:\\users\\usuario\\desktop\\parcialsln\\webapi\\services\\envioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\services\\envioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|d:\\users\\usuario\\desktop\\parcialsln\\webapi\\models\\detallesenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\detallesenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|d:\\users\\usuario\\desktop\\parcialsln\\webapi\\models\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|d:\\users\\usuario\\desktop\\parcialsln\\webapi\\models\\enviosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\enviosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|d:\\users\\usuario\\desktop\\parcialsln\\webapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|d:\\users\\usuario\\desktop\\parcialsln\\webapi\\controllers\\envioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\envioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|d:\\users\\usuario\\desktop\\parcialsln\\webapi\\repository\\ienviorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\repository\\ienviorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|d:\\users\\usuario\\desktop\\parcialsln\\webapi\\repository\\enviosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\repository\\enviosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|d:\\users\\usuario\\desktop\\parcialsln\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|d:\\users\\usuario\\desktop\\parcialsln\\webapi\\dtos\\enviocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dtos\\enviocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|d:\\users\\usuario\\desktop\\parcialsln\\webapi\\dtos\\enviodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dtos\\enviodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|d:\\users\\usuario\\desktop\\parcialsln\\webapi\\dtos\\detalleenviocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dtos\\detalleenviocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|d:\\users\\usuario\\desktop\\parcialsln\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|d:\\users\\usuario\\desktop\\parcialsln\\webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|d:\\users\\usuario\\desktop\\parcialsln\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|d:\\users\\usuario\\desktop\\parcialsln\\webapi\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62DD33ED-23DC-4329-8EC6-B536ED4FF5CE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEnvioRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Repository\\IEnvioRepository.cs",
+              "RelativeDocumentMoniker": "WebApi\\Repository\\IEnvioRepository.cs",
+              "ToolTip": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Repository\\IEnvioRepository.cs",
+              "RelativeToolTip": "WebApi\\Repository\\IEnvioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:00:49.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnviosController.cs",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Controllers\\EnviosController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\EnviosController.cs",
+              "ToolTip": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Controllers\\EnviosController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\EnviosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:58:09.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnviosDBContext.cs",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Models\\EnviosDBContext.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\EnviosDBContext.cs",
+              "ToolTip": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Models\\EnviosDBContext.cs",
+              "RelativeToolTip": "WebApi\\Models\\EnviosDBContext.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwFIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:00:20.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:02:11.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnvioService.cs",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Services\\EnvioService.cs",
+              "RelativeDocumentMoniker": "WebApi\\Services\\EnvioService.cs",
+              "ToolTip": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Services\\EnvioService.cs",
+              "RelativeToolTip": "WebApi\\Services\\EnvioService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T01:53:37.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnvioCreateDTO.cs",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\DTOs\\EnvioCreateDTO.cs",
+              "RelativeDocumentMoniker": "WebApi\\DTOs\\EnvioCreateDTO.cs",
+              "ToolTip": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\DTOs\\EnvioCreateDTO.cs",
+              "RelativeToolTip": "WebApi\\DTOs\\EnvioCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:35:54.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnviosRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Repository\\EnviosRepository.cs",
+              "RelativeDocumentMoniker": "WebApi\\Repository\\EnviosRepository.cs",
+              "ToolTip": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Repository\\EnviosRepository.cs",
+              "RelativeToolTip": "WebApi\\Repository\\EnviosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:33:22.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetalleEnvioCreateDTO.cs",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\DTOs\\DetalleEnvioCreateDTO.cs",
+              "RelativeDocumentMoniker": "WebApi\\DTOs\\DetalleEnvioCreateDTO.cs",
+              "ToolTip": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\DTOs\\DetalleEnvioCreateDTO.cs",
+              "RelativeToolTip": "WebApi\\DTOs\\DetalleEnvioCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:36:46.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\Producto.cs",
+              "ToolTip": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Models\\Producto.cs",
+              "RelativeToolTip": "WebApi\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:29:06.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Envio.cs",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Models\\Envio.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\Envio.cs",
+              "ToolTip": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Models\\Envio.cs",
+              "RelativeToolTip": "WebApi\\Models\\Envio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:06:32.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetallesEnvio.cs",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Models\\DetallesEnvio.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\DetallesEnvio.cs",
+              "ToolTip": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Models\\DetallesEnvio.cs",
+              "RelativeToolTip": "WebApi\\Models\\DetallesEnvio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:24:25.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnvioDTO.cs",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\DTOs\\EnvioDTO.cs",
+              "RelativeDocumentMoniker": "WebApi\\DTOs\\EnvioDTO.cs",
+              "ToolTip": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\DTOs\\EnvioDTO.cs",
+              "RelativeToolTip": "WebApi\\DTOs\\EnvioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T01:48:15.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebApi",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T20:09:53.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T19:28:30.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T20:09:25.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\efpt.config.json",
+              "RelativeDocumentMoniker": "WebApi\\efpt.config.json",
+              "ToolTip": "D:\\Users\\Usuario\\Desktop\\ParcialSln\\WebApi\\efpt.config.json",
+              "RelativeToolTip": "WebApi\\efpt.config.json",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T16:09:54.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
